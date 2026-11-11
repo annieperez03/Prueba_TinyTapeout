@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_um_annieperez03_TinyTapeout (
+  tt_um_annieperez03_Prueba_TinyTapeout (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
