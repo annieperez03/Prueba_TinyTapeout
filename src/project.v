@@ -12,7 +12,7 @@ parameter DISPLAY_HEIGHT = 480;  // VGA display height
 
 `define COLOR_WHITE 3'd1
 
-module tt_um_ANNIE_PRUEBA (
+module tt_um_annieperez03_Prueba_TinyTapeout (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: Input path
